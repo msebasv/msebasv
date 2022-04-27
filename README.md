@@ -11,7 +11,8 @@
 
 #### 📱 Social Networks:
 <a href="https://www.linkedin.com/in/msebasv/"><img src="https://github.com/msebasv/msebasv/blob/main/src/Capa%202.png" width="34" height="34"/></a>
-<a href="https://www.linkedin.com/in/msebasv/"><img src="https://github.com/msebasv/msebasv/blob/main/src/Capa%203.png" width="34" height="34"/></a>
+<a href="https://twitter.com/msebasv"><img src="https://github.com/msebasv/msebasv/blob/main/src/Capa%203.png" width="34" height="34"/></a>
+<a href="msebasve@gmail.com"><img src="https://github.com/msebasv/msebasv/blob/main/src/Capa%204.png" width="34" height="34"/></a>
 
 
 
