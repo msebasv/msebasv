@@ -1,4 +1,4 @@
-![](https://github.com/msebasv/msebasv/blob/main/ImgBanner.png)
+![](https://github.com/msebasv/msebasv/blob/main/src/ImgBanner.png)
 
 <h1 align="center">Hi there, I'm Sebastian <img src="./src/wave.gif" width="30px"></h1>
 
