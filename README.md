@@ -1,10 +1,15 @@
-### Hi! 👋
 ![](https://github.com/msebasv/msebasv/blob/main/ImgBanner.png)
 
+<h1 align="center">Hi there, I'm Sebastian <img src="./src/wave.gif" width="30px"></h1>
 
-Skills: REACT / JS / HTML / CSS
+#### 💻 Currently working on:
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/msebasv)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/msebasv//)  
+<a src="https://reactjs.org/"><img src="https://github.com/msebasv/msebasv/blob/main/src/react.png"/></a>
+<a src="https://www.javascript.com/"><img src="https://github.com/msebasv/msebasv/blob/main/src/javascript.png"/></a>
+<a src="https://www.w3schools.com/html/"><img src="https://github.com/msebasv/msebasv/blob/main/src/html-5.png"/></a>
+<a src="https://www.w3schools.com/css/"><img src="https://github.com/msebasv/msebasv/blob/main/src/css3.png"/></a>
+
+
 
 
 
