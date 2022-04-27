@@ -9,6 +9,8 @@
 <a src="https://www.w3schools.com/html/"><img src="https://github.com/msebasv/msebasv/blob/main/src/html-5.png"/></a>
 <a src="https://www.w3schools.com/css/"><img src="https://github.com/msebasv/msebasv/blob/main/src/css3.png"/></a>
 
+#### 📱 Social Networks:
+<a src="https://www.linkedin.com/in/msebasv/"><img src="https://github.com/msebasv/msebasv/blob/main/src/Capa%202.png" width="34" height="34"/></a>
 
 
 
