@@ -9,7 +9,7 @@ I'm a software engineering student with experience in developing web application
 Building a PQRSDF system using Python and Django with PostgreSQL as the database management system.
 
 ### ⚡ Technologies
-<a href="https://reactjs.org/"><img src="https://github.com/msebasv/msebasv/blob/main/src/python.png"/></a>
+<a href="https://reactjs.org/"><img src="https://github.com/msebasv/msebasv/blob/main/src/Python.png"/></a>
 <a href="https://reactjs.org/"><img src="https://github.com/msebasv/msebasv/blob/main/src/react.png"/></a>
 <a href="https://www.javascript.com/"><img src="https://github.com/msebasv/msebasv/blob/main/src/javascript.png"/></a>
 <a href="https://www.w3schools.com/html/"><img src="https://github.com/msebasv/msebasv/blob/main/src/html-5.png"/></a>
