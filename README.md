@@ -10,10 +10,10 @@ Building a PQRSDF system using Python and Django with PostgreSQL as the database
 
 ### ⚡ Technologies
 <a href="https://reactjs.org/"><img src="https://github.com/msebasv/msebasv/blob/main/src/Python.png" width="50" heigh="50"/></a>
-<a href="https://reactjs.org/"><img src="https://github.com/msebasv/msebasv/blob/main/src/react.png"/></a>
-<a href="https://www.javascript.com/"><img src="https://github.com/msebasv/msebasv/blob/main/src/javascript.png"/></a>
-<a href="https://www.w3schools.com/html/"><img src="https://github.com/msebasv/msebasv/blob/main/src/html-5.png"/></a>
-<a href="https://www.w3schools.com/css/"><img src="https://github.com/msebasv/msebasv/blob/main/src/css3.png"/></a>
+<a href="https://reactjs.org/"><img src="https://github.com/msebasv/msebasv/blob/main/src/react.png" width="50" heigh="50"/></a>
+<a href="https://www.javascript.com/"><img src="https://github.com/msebasv/msebasv/blob/main/src/javascript.png" width="50" heigh="50"/></a>
+<a href="https://www.w3schools.com/html/"><img src="https://github.com/msebasv/msebasv/blob/main/src/html-5.png" width="50" heigh="50"/></a>
+<a href="https://www.w3schools.com/css/"><img src="https://github.com/msebasv/msebasv/blob/main/src/css3.png" width="50" heigh="50"/></a>
 
 #### 📱 Social Networks:
 <a href="https://www.linkedin.com/in/msebasv/"><img src="https://github.com/msebasv/msebasv/blob/main/src/Capa%202.png" width="34" height="34"/></a>
